@@ -1,4 +1,4 @@
-package uk.ac.southamton.kristyanYochev;
+package uk.ac.southampton.kristyanYochev;
 
 import java.io.BufferedReader;
 import java.io.IOException;

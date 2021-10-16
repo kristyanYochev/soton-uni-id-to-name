@@ -1,8 +1,8 @@
-package uk.ac.southamton.kristyanYochev;
+package uk.ac.southampton.kristyanYochev;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
-import static uk.ac.southamton.kristyanYochev.App.idToName;
+import static uk.ac.southampton.kristyanYochev.App.idToName;
 
 import org.junit.jupiter.api.Test;
 

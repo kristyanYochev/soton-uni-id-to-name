@@ -1,4 +1,4 @@
-package uk.ac.southamton.kristyanYochev;
+package uk.ac.southampton.kristyanYochev;
 
 public class CannotConnectToServer extends Exception {
 
